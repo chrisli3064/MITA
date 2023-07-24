@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MITA/static/css/main.e10a30c7.css",
-    "main.js": "/MITA/static/js/main.0044ea47.js",
+    "main.css": "/MITA/static/css/main.eae18153.css",
+    "main.js": "/MITA/static/js/main.d3aa345e.js",
     "static/js/787.d6c0c410.chunk.js": "/MITA/static/js/787.d6c0c410.chunk.js",
     "index.html": "/MITA/index.html",
-    "main.e10a30c7.css.map": "/MITA/static/css/main.e10a30c7.css.map",
-    "main.0044ea47.js.map": "/MITA/static/js/main.0044ea47.js.map",
+    "main.eae18153.css.map": "/MITA/static/css/main.eae18153.css.map",
+    "main.d3aa345e.js.map": "/MITA/static/js/main.d3aa345e.js.map",
     "787.d6c0c410.chunk.js.map": "/MITA/static/js/787.d6c0c410.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e10a30c7.css",
-    "static/js/main.0044ea47.js"
+    "static/css/main.eae18153.css",
+    "static/js/main.d3aa345e.js"
   ]
 }
