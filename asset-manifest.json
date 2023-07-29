@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MITA/static/css/main.07035150.css",
-    "main.js": "/MITA/static/js/main.58a0e1a6.js",
-    "static/js/787.d6c0c410.chunk.js": "/MITA/static/js/787.d6c0c410.chunk.js",
-    "index.html": "/MITA/index.html",
-    "main.07035150.css.map": "/MITA/static/css/main.07035150.css.map",
-    "main.58a0e1a6.js.map": "/MITA/static/js/main.58a0e1a6.js.map",
-    "787.d6c0c410.chunk.js.map": "/MITA/static/js/787.d6c0c410.chunk.js.map"
+    "main.css": "/static/css/main.07035150.css",
+    "main.js": "/static/js/main.23792ea3.js",
+    "static/js/787.d6c0c410.chunk.js": "/static/js/787.d6c0c410.chunk.js",
+    "index.html": "/index.html",
+    "main.07035150.css.map": "/static/css/main.07035150.css.map",
+    "main.23792ea3.js.map": "/static/js/main.23792ea3.js.map",
+    "787.d6c0c410.chunk.js.map": "/static/js/787.d6c0c410.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07035150.css",
-    "static/js/main.58a0e1a6.js"
+    "static/js/main.23792ea3.js"
   ]
 }
